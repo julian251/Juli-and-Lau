@@ -11,5 +11,10 @@ int main(){
     std :: cout << "dir de int: " << &a << "\n";
     std :: cout << "dir de double: " << &b << "\n";
     std :: cout << "dir de char: " << &c << "\n";
+
+    int d = 4, suma;
+    suma = d + a;
+    std:: cout << "Suma: " << suma << std::endl;
+    std:: cout << "Suma int+double: " << d+b <<std::endl;
     return 0;
 }
