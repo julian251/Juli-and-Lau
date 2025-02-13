@@ -9,5 +9,6 @@ int main(){
     p2.x =-5;
     std:: cout << "Point P1(" << p1.x << ", " << p1.y << ")\n";
     std:: cout << "Point P1(" << p2.x << ", " << p2.y << ")\n";
+    std:: cout << "papa\n";
     return 0; 
 }
