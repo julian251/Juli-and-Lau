@@ -1,14 +1,22 @@
 #include <iostream>
-
+/*
+Para la solución del ejercicio se planteo el uso de condicionales que evaluan las 
+propiedades requeridas de un número ingresado por el usuario, usando su modulo de 2
+y comparando su tamaño con cero
+*/
 int main(){
 
     int num;
-
-    std:: cout << "Ingrese un número\n"; //se le pide al usuario ingresar numero
+    //se le pide al usuario ingresar numero
+    std:: cout << "Ingrese un número\n"; 
     std:: cin >> num;
-    if(num == 0) // se evalua la excepción de cero
+    //se evalua la excepción de cero
+    if(num == 0) 
         std:: cout << "El número es neutro\n";
-    else if(num%2==0 && num>0) // se usa operador logico and, teniendo  en cuenta el modulo del numero si este es cero (par) y si el valor es mayor a cero es (positivo)
+    /*
+    se usa operador logico and, teniendo  en cuenta el modulo del numero si este 
+    es cero (par) y si el valor es mayor a cero es (positivo)*/
+    else if(num%2==0 && num>0) 
         std:: cout << "El número es par y positivo\n";
     else if(num%2 == 0)
         std:: cout << "El número es par y negativo\n";

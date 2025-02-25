@@ -1,5 +1,11 @@
 #include <iostream>
 #include <math.h>
+/*
+Para realizar el ejercicio se declararon las variables necesarias de diferente tipo para calcular el monto 
+de una inversion con interes compuesto, teniendo presente el ingreso del valor de cada variable
+por el usuario. Finalmente se tuvo en cuenta la conversión de porcentaje a decimal de la 
+varible (tasa de interés anual) y calculando con la fórmula dada el interés compuesto 
+*/
 int main(){
     // se declaran las variables a usar
     int n,t;

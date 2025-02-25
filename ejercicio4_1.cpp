@@ -1,4 +1,12 @@
 #include <iostream>
+/*
+Para realizar el ejercicio se tuvo en cuenta la declaracón de una variable arreglo y 
+una variable de resultado, se optó por usar dos ciclos for, uno de ellos para 
+que el usuario ingresara el valor de cada posición del arreglo, por otro lado el otro ciclo
+for se uso para sumar el valor de cada posición del arreglo, por último se usa el mismo
+proceso del ejercicio2_2 para determinar si ese resultado es par, impar, negativo o positivo.
+*/
+
 int main(){
     // se define el arreglo y variable de control
     int cadena[5];
