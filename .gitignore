@@ -1,0 +1,74 @@
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+*.txt
+*.pdf
+
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeLists.txt.user
+CTestTestfile.cmake
+
+# Qt Creator generated files
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# Other generated files
+*.moc
+*.qrc
+*.rcc
+*.tmp
+*.log
+*.csv
+
+# IDE specific files
+.vscode/
+.idea/
+# Doxygen generated files
+/html/
+/latex/
+/man/
+/rtf/
+/xml/
+/doc/
+/*.dot
+/*.map
+/*.tmp
+.png
+.js
+.css
+.tex
+.sty
