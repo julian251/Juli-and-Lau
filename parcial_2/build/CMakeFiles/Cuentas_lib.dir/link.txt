@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCuentas_lib.a CMakeFiles/Cuentas_lib.dir/src/CuentaBancaria.cpp.o
+/usr/bin/ranlib libCuentas_lib.a

@@ -1,0 +1,12 @@
+Número de cuenta: 123456789
+Saldo: 1500
+Estado de la cuenta: Activa
+-------------------------
+Número de cuenta: 987654321
+Saldo: 1200
+Estado de la cuenta: Activa
+-------------------------
+Número de cuenta: 456789123
+Saldo: 3000
+Estado de la cuenta: Bloqueada
+-------------------------

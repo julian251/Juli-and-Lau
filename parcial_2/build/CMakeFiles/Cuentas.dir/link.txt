@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Cuentas.dir/main/punto_4.cpp.o -o Cuentas  libCuentas_lib.a 

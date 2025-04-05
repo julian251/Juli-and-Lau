@@ -1,0 +1,4 @@
+/home/julian_alse/codes/parcial_2/build/CMakeFiles/Cuentas_lib.dir
+/home/julian_alse/codes/parcial_2/build/CMakeFiles/Cuentas.dir
+/home/julian_alse/codes/parcial_2/build/CMakeFiles/edit_cache.dir
+/home/julian_alse/codes/parcial_2/build/CMakeFiles/rebuild_cache.dir
